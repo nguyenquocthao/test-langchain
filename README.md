@@ -1,4 +1,4 @@
-task from Hai: viet service, nhan file hinh anh, doc file hinh anh va summaries dung chatgpt; google vision
+task: input image => captioning; image captioning; google vision
 
 LLMs: Large Language Models, take a text string as input, return a text string
 
