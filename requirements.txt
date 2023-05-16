@@ -1,0 +1,5 @@
+tiktoken
+langchain
+transformers
+ipywidgets
+chromadbhuggingface_hub

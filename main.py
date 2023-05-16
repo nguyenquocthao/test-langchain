@@ -20,7 +20,7 @@ agent = initialize_agent(
 # )
 
 agent.run(
-    "Can you summarize Password visual novel by Grizz? What is Dean's cause of death in day 6?"
+    "What is langchain ChatAnthropic?"
 )
 
 # print(llm("Do you know langchain? Do you have the link to langchain?"))
