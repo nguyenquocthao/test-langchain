@@ -89,6 +89,7 @@ class ImageCaptionLoader(BaseLoader):
 
         caption: str = processor.decode(output[0])
         metadata: dict = {"width": image.width, "height": image.height}
+        image.close()
 
         return caption, metadata
 
