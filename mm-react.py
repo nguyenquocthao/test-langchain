@@ -7,14 +7,18 @@ from langchain.agents import initialize_agent, Tool
 from langchain.tools.bing_search.tool import BingSearchRun, BingSearchAPIWrapper
 from langchain.chains.conversation.memory import ConversationBufferMemory
 from langchain.chains import PALChain
-from langchain.llms import AzureOpenAI
-from langchain.utilities import ImunAPIWrapper, ImunMultiAPIWrapper
-from langchain.utils import get_url_path
+from langchain.llms import AzureOpenAI, OpenAI
+from imun import ImunAPIWrapper, ImunMultiAPIWrapper
+from utils import get_url_path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 MAX_TOKENS = 512
 
 # This is private endpoint, will have to change to turbo later
-llm = AzureOpenAI(deployment_name="gpt-35-turbo-version-0301", model_name="gpt-35-turbo (version 0301)", temperature=0, max_tokens=MAX_TOKENS)
+# llm = AzureOpenAI(deployment_name="gpt-35-turbo-version-0301", model_name="gpt-35-turbo (version 0301)", temperature=0, max_tokens=MAX_TOKENS)
+llm = OpenAI(temperature=0)
 
 memory = ConversationBufferMemory(memory_key="chat_history")
 

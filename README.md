@@ -69,3 +69,25 @@ Todo:
 - Vuejs / appsmith server frontend
 - backend python
 - 
+
+
+
+Todo:
+- run mm-react
+- https://github.com/microsoft/MM-REACT
+
+Run using google colab research resource:
+https://colab.research.google.com/drive/1SiTOnQW2B-zyxcMWT7_fkE5UBUiUZaqy#scrollTo=9r0sKf-62YFK
+
+https://onnx.ai/
+ONNX is an open format built to represent machine learning models. ONNX defines a common set of operators - the building blocks of machine learning and deep learning models - and a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes, and compilers
+
+https://docs.streamlit.io/
+
+
+https://learn.microsoft.com/en-us/answers/questions/1191884/how-to-fix-the-error-using-azure-openai-model-endp
+
+https://azure.microsoft.com/en-us/products/cognitive-services/vision-services
+
+
+https://unix.stackexchange.com/questions/410579/change-the-python3-default-version-in-ubuntu

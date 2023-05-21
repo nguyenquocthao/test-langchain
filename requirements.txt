@@ -4,3 +4,8 @@ transformers
 ipywidgets
 chromadb
 huggingface_hub
+openai
+google-search-results
+imagesize
+pydantic
+python-dotenv
