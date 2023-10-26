@@ -1,0 +1,1210 @@
+[
+    {
+        "label": "newspaper",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "newspaper",
+        "description": "newspaper",
+        "detail": "newspaper",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlunparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "Error",
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "isExtraImport": true,
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.docstore.document",
+        "description": "langchain.docstore.document",
+        "isExtraImport": true,
+        "detail": "langchain.docstore.document",
+        "documentation": {}
+    },
+    {
+        "label": "BaseLoader",
+        "importPath": "langchain.document_loaders.base",
+        "description": "langchain.document_loaders.base",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders.base",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "imagesize",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imagesize",
+        "description": "imagesize",
+        "detail": "imagesize",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Extra",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "root_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "get_from_dict_or_env",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "im_downscale",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "im_upscale",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_url_path",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_tools",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentType",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "AzureOpenAI",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "AzureOpenAI",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "AzureOpenAI",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "BingSearchRun",
+        "importPath": "langchain.tools.bing_search.tool",
+        "description": "langchain.tools.bing_search.tool",
+        "isExtraImport": true,
+        "detail": "langchain.tools.bing_search.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BingSearchAPIWrapper",
+        "importPath": "langchain.tools.bing_search.tool",
+        "description": "langchain.tools.bing_search.tool",
+        "isExtraImport": true,
+        "detail": "langchain.tools.bing_search.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BingSearchRun",
+        "importPath": "langchain.tools.bing_search.tool",
+        "description": "langchain.tools.bing_search.tool",
+        "isExtraImport": true,
+        "detail": "langchain.tools.bing_search.tool",
+        "documentation": {}
+    },
+    {
+        "label": "BingSearchAPIWrapper",
+        "importPath": "langchain.tools.bing_search.tool",
+        "description": "langchain.tools.bing_search.tool",
+        "isExtraImport": true,
+        "detail": "langchain.tools.bing_search.tool",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.chains.conversation.memory",
+        "description": "langchain.chains.conversation.memory",
+        "isExtraImport": true,
+        "detail": "langchain.chains.conversation.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.chains.conversation.memory",
+        "description": "langchain.chains.conversation.memory",
+        "isExtraImport": true,
+        "detail": "langchain.chains.conversation.memory",
+        "documentation": {}
+    },
+    {
+        "label": "PALChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "PALChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "ImunAPIWrapper",
+        "importPath": "imun",
+        "description": "imun",
+        "isExtraImport": true,
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "ImunMultiAPIWrapper",
+        "importPath": "imun",
+        "description": "imun",
+        "isExtraImport": true,
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "ImunAPIWrapper",
+        "importPath": "langchain.utilities",
+        "description": "langchain.utilities",
+        "isExtraImport": true,
+        "detail": "langchain.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "ImunMultiAPIWrapper",
+        "importPath": "langchain.utilities",
+        "description": "langchain.utilities",
+        "isExtraImport": true,
+        "detail": "langchain.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "get_url_path",
+        "importPath": "langchain.utils",
+        "description": "langchain.utils",
+        "isExtraImport": true,
+        "detail": "langchain.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "captionImage",
+        "importPath": "caption",
+        "description": "caption",
+        "isExtraImport": true,
+        "detail": "caption",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "kind": 6,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "class Database:\n    def __init__(self):\n        self.conn = psycopg2.connect(dsn=postgredsn)\n    def insert(self, url, content):\n        cursor = self.conn.cursor()\n        try:\n            cursor.execute(\"insert into crawl_webs(url, content) values(%s, %s)\", (url, content))\n            print(\"insert successfully\", url)\n        except (Exception, Error) as e:\n            print(\"error \", e)",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "remove_url_hash",
+        "kind": 2,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "def remove_url_hash(url):\n    parsed_url = urlparse(url)\n    clean_url = urlunparse(parsed_url._replace(fragment=''))\n    return clean_url\ndef format_url(url):\n    return remove_url_hash(url)\ndef get_text_content(url, input_html=None):\n    article = newspaper.Article(url)\n    article.download(input_html=input_html)\n    article.parse()",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "format_url",
+        "kind": 2,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "def format_url(url):\n    return remove_url_hash(url)\ndef get_text_content(url, input_html=None):\n    article = newspaper.Article(url)\n    article.download(input_html=input_html)\n    article.parse()\n    return article.text\n# baseurl = 'https://python.langchain.com/docs/modules/agents/toolkits/document_comparison_toolkit'\n# domain = 'https://python.langchain.com'\nbaseurl = 'https://www.vinmec.com/vi/tim-mach/tin-tuc-_hoat-dong/can-thiep-mach-vanh-chuan-my-tai-vinmec-nac-thang-moi-trong-dieu-tri-benh-tim-mach-tai-viet-nam/'",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_content",
+        "kind": 2,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "def get_text_content(url, input_html=None):\n    article = newspaper.Article(url)\n    article.download(input_html=input_html)\n    article.parse()\n    return article.text\n# baseurl = 'https://python.langchain.com/docs/modules/agents/toolkits/document_comparison_toolkit'\n# domain = 'https://python.langchain.com'\nbaseurl = 'https://www.vinmec.com/vi/tim-mach/tin-tuc-_hoat-dong/can-thiep-mach-vanh-chuan-my-tai-vinmec-nac-thang-moi-trong-dieu-tri-benh-tim-mach-tai-viet-nam/'\ndomain = 'https://www.vinmec.com/vi/'\npostgredsn = \"postgres://ubuntu:1@localhost:5432/langchain\"",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "crawl_websites",
+        "kind": 2,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "def crawl_websites(baseurl, domain):\n    marked, dq, res, errors = set(), deque([baseurl]), [], []\n    while dq:\n        u = dq.popleft()\n        if u in marked: continue\n        marked.add(u)\n        try:\n            response = requests.get(u)\n            htmlcontent = response.content.decode(\"utf-8\")\n            textcontent = get_text_content(u, input_html=htmlcontent)",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "baseurl",
+        "kind": 5,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "baseurl = 'https://www.vinmec.com/vi/tim-mach/tin-tuc-_hoat-dong/can-thiep-mach-vanh-chuan-my-tai-vinmec-nac-thang-moi-trong-dieu-tri-benh-tim-mach-tai-viet-nam/'\ndomain = 'https://www.vinmec.com/vi/'\npostgredsn = \"postgres://ubuntu:1@localhost:5432/langchain\"\nclass Database:\n    def __init__(self):\n        self.conn = psycopg2.connect(dsn=postgredsn)\n    def insert(self, url, content):\n        cursor = self.conn.cursor()\n        try:\n            cursor.execute(\"insert into crawl_webs(url, content) values(%s, %s)\", (url, content))",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "domain",
+        "kind": 5,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "domain = 'https://www.vinmec.com/vi/'\npostgredsn = \"postgres://ubuntu:1@localhost:5432/langchain\"\nclass Database:\n    def __init__(self):\n        self.conn = psycopg2.connect(dsn=postgredsn)\n    def insert(self, url, content):\n        cursor = self.conn.cursor()\n        try:\n            cursor.execute(\"insert into crawl_webs(url, content) values(%s, %s)\", (url, content))\n            print(\"insert successfully\", url)",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "postgredsn",
+        "kind": 5,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "postgredsn = \"postgres://ubuntu:1@localhost:5432/langchain\"\nclass Database:\n    def __init__(self):\n        self.conn = psycopg2.connect(dsn=postgredsn)\n    def insert(self, url, content):\n        cursor = self.conn.cursor()\n        try:\n            cursor.execute(\"insert into crawl_webs(url, content) values(%s, %s)\", (url, content))\n            print(\"insert successfully\", url)\n        except (Exception, Error) as e:",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "3k",
+        "description": "3k",
+        "peekOfCode": "db = Database()\ndef crawl_websites(baseurl, domain):\n    marked, dq, res, errors = set(), deque([baseurl]), [], []\n    while dq:\n        u = dq.popleft()\n        if u in marked: continue\n        marked.add(u)\n        try:\n            response = requests.get(u)\n            htmlcontent = response.content.decode(\"utf-8\")",
+        "detail": "3k",
+        "documentation": {}
+    },
+    {
+        "label": "ImageCaptionLoader",
+        "kind": 6,
+        "importPath": "caption",
+        "description": "caption",
+        "peekOfCode": "class ImageCaptionLoader(BaseLoader):\n    \"\"\"Loader that loads the captions of an image\"\"\"\n    def __init__(\n        self,\n        path_images: Union[str, List],\n        blip_processor: str = \"Salesforce/blip-image-captioning-base\",\n        blip_model: str = \"Salesforce/blip-image-captioning-base\",\n    ):\n        \"\"\"\n        Initialize with a list of image paths",
+        "detail": "caption",
+        "documentation": {}
+    },
+    {
+        "label": "captionImage",
+        "kind": 2,
+        "importPath": "caption",
+        "description": "caption",
+        "peekOfCode": "def captionImage(file):\n    image = Image.open(file).convert(\"RGB\")\n    # print(98, image.format)\n    loader = ImageCaptionLoader(path_images = [file])\n    return loader.load()[0]",
+        "detail": "caption",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidRequest",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class InvalidRequest(requests.HTTPError):\n    pass\nclass InvalidImageSize(InvalidRequest):\n    pass\nclass InvalidImageFormat(InvalidRequest):\n    pass\ndef _handle_error(response):\n    if response.status_code == 200:\n        return\n    try:",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidImageSize",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class InvalidImageSize(InvalidRequest):\n    pass\nclass InvalidImageFormat(InvalidRequest):\n    pass\ndef _handle_error(response):\n    if response.status_code == 200:\n        return\n    try:\n        # Handle error messages from various versions\n        err = response.json()",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidImageFormat",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class InvalidImageFormat(InvalidRequest):\n    pass\ndef _handle_error(response):\n    if response.status_code == 200:\n        return\n    try:\n        # Handle error messages from various versions\n        err = response.json()\n        error = err.get(\"error\") or {}\n        innererror = error.get(\"innererror\") or {}",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "ImunCache",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class ImunCache(BaseModel):\n    cache: Optional[dict] = {}  #: :meta private:\n    class Config:\n        copy_on_model_validation = 'none'\n    def get(self, key:str)->dict:\n        return self.cache.get(key)\n    def set(self, key:str, value:dict):\n        self.cache[key] = value\nclass ImunAPIWrapper(BaseModel):\n    \"\"\"Wrapper for Image Understanding API.",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "ImunAPIWrapper",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class ImunAPIWrapper(BaseModel):\n    \"\"\"Wrapper for Image Understanding API.\n    In order to set this up, follow instructions at:\n    https://azure.microsoft.com/en-us/products/cognitive-services/computer-vision\n    \"\"\"\n    cache: Optional[ImunCache]  #: :meta private:\n    imun_subscription_key: str\n    imun_url: str\n    params: dict  # \"api-version=2023-02-01-preview&features=denseCaptions,Tags\"\n    class Config:",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "ImunMultiAPIWrapper",
+        "kind": 6,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "class ImunMultiAPIWrapper(BaseModel):\n    \"\"\"Wrapper for Multi Image Understanding API.\n    \"\"\"\n    imuns: List[ImunAPIWrapper]\n    class Config:\n        \"\"\"Configuration for this pydantic object.\"\"\"\n        extra = Extra.forbid\n    def run(self, query: str) -> str:\n        \"\"\"Run query through Multiple Image Understanding and parse the aggregate result.\"\"\"\n        results = self.results(query)",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "def resize_image(data, img_url):\n    \"\"\"resize if h < 60 or w < 60 or data_len > 1024 * 1024 * 4\"\"\"\n    try:\n        # Using imagesize to avoid decoding when not needed\n        w, h = imagesize.get(io.BytesIO(data))\n        assert w > 0 and h > 0\n    except:\n        return data, (None, None)\n    img_url = img_url.lower()\n    if img_url.endswith((\".webp\")):",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "intersection",
+        "kind": 2,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "def intersection(o:List[float], c:List[float]) -> Tuple[float]:\n    ox1, oy1, ox2, oy2 = o\n    cx1, cy1, cx2, cy2 = c\n    # height and width\n    o_h = oy2 - oy1\n    o_w = ox2 - ox1\n    c_h = cy2 - cy1\n    c_w = cx2 - cx1\n    o_area = o_w * o_h\n    c_area = c_w * c_h",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "create_prompt",
+        "kind": 2,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "def create_prompt(results: Dict) -> str:\n    \"\"\"Create the final prompt output\"\"\"\n    img_url = results.get(\"img_url\") or \"\"\n    description = results.get(\"description\") or \"\"\n    captions: List = results.get(\"captions\") or []\n    tags = results.get(\"tags\") or \"\"\n    objects: List = results.get(\"objects\") or []\n    words = results.get(\"words\") or \"\"\n    words_style = results.get(\"words_style\") or \"\"\n    languages = results.get(\"languages\") or \"\"",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_DESCRIPTION",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_DESCRIPTION = \"Image description is: {description}.\\n\"\nIMUN_PROMPT_CAPTIONS_PEFIX = \" objects and their descriptions\"\nIMUN_PROMPT_TAGS_PEFIX = \" object tags\"\nIMUN_PROMPT_OCR_PEFIX = \" {style}text\"\nIMUN_PROMPT_FACES_PEFIX = \" faces\"\nIMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_CAPTIONS_PEFIX",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_CAPTIONS_PEFIX = \" objects and their descriptions\"\nIMUN_PROMPT_TAGS_PEFIX = \" object tags\"\nIMUN_PROMPT_OCR_PEFIX = \" {style}text\"\nIMUN_PROMPT_FACES_PEFIX = \" faces\"\nIMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_TAGS_PEFIX",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_TAGS_PEFIX = \" object tags\"\nIMUN_PROMPT_OCR_PEFIX = \" {style}text\"\nIMUN_PROMPT_FACES_PEFIX = \" faces\"\nIMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"\nList of object tags seen in this image:",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_OCR_PEFIX",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_OCR_PEFIX = \" {style}text\"\nIMUN_PROMPT_FACES_PEFIX = \" faces\"\nIMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"\nList of object tags seen in this image:\n{tags}",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_FACES_PEFIX",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_FACES_PEFIX = \" faces\"\nIMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"\nList of object tags seen in this image:\n{tags}\n\"\"\"",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_CELEB_PEFIX",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_CELEB_PEFIX = \" celebrities\"\nIMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"\nList of object tags seen in this image:\n{tags}\n\"\"\"\nIMUN_PROMPT_WORDS=\"\"\"",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "IMUN_PROMPT_CAPTIONS",
+        "kind": 5,
+        "importPath": "imun",
+        "description": "imun",
+        "peekOfCode": "IMUN_PROMPT_CAPTIONS = \"\"\"\nList of object descriptions, and their locations in this image:\n{captions}\n\"\"\"\nIMUN_PROMPT_TAGS=\"\"\"\nList of object tags seen in this image:\n{tags}\n\"\"\"\nIMUN_PROMPT_WORDS=\"\"\"\nList of OCR texts (words) seen in this image:",
+        "detail": "imun",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "tools = load_tools([\"serpapi\", \"llm-math\"], llm=llm)\nagent = initialize_agent(\n    tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True\n)\n# agent.run(\n#     \"What was the high temperature in SF yesterday in Fahrenheit? What is that number raised to the .023 power?\"\n# )\nagent.run(\n    \"Langchain difference between OpenAI and AzureOpenAI\"\n)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "agent",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "agent = initialize_agent(\n    tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True\n)\n# agent.run(\n#     \"What was the high temperature in SF yesterday in Fahrenheit? What is that number raised to the .023 power?\"\n# )\nagent.run(\n    \"Langchain difference between OpenAI and AzureOpenAI\"\n)\n# print(llm(\"Do you know langchain? Do you have the link to langchain?\"))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "edit_photo",
+        "kind": 2,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "def edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):\n        return \"Invalid image URL\"\n    img_url = img_url.replace(\"0.0.0.0\", os.environ[\"PHOTO_EDIT_ENDPOINT_URL_SHORT\"])\n    instruction = query[:url_idx]\n    # This should be some internal IP to wherever the server runs\n    job = {\"image_path\": img_url, \"instruction\": instruction}",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TOKENS",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "MAX_TOKENS = 512\n# This is private endpoint, will have to change to turbo later\n# llm = AzureOpenAI(deployment_name=\"gpt-35-turbo-version-0301\", model_name=\"gpt-35-turbo (version 0301)\", temperature=0, max_tokens=MAX_TOKENS)\nllm = OpenAI(temperature=0)\nmemory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "llm = OpenAI(temperature=0)\nmemory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "memory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_dense",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_celeb",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_read",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_receipt",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_businesscard",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_layout",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nbing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_invoice",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "imun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nbing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "bing",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "bing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):\n        return \"Invalid image URL\"\n    img_url = img_url.replace(\"0.0.0.0\", os.environ[\"PHOTO_EDIT_ENDPOINT_URL_SHORT\"])\n    instruction = query[:url_idx]\n    # This should be some internal IP to wherever the server runs",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "tools = [\n    Tool(\n        name=\"PAL-MATH\",\n        func=PALChain.from_math_prompt(llm).run,\n        description=(\n        \"A wrapper around calculator. \"\n        \"A language model that is really good at solving complex word math problems.\"\n        \"Input should be a fully worded hard word math problem.\"\n        )\n    ),",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "chain = initialize_agent(tools, llm, agent=\"conversational-mm-assistant\", verbose=True, memory=memory, return_intermediate_steps=True, max_iterations=4)\noutput = chain.conversation(\"https://www.oracle-dba-online.com/sql/weekly_sales_table.png\")",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "mm-react",
+        "description": "mm-react",
+        "peekOfCode": "output = chain.conversation(\"https://www.oracle-dba-online.com/sql/weekly_sales_table.png\")",
+        "detail": "mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "edit_photo",
+        "kind": 2,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "def edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):\n        return \"Invalid image URL\"\n    img_url = img_url.replace(\"0.0.0.0\", os.environ[\"PHOTO_EDIT_ENDPOINT_URL_SHORT\"])\n    instruction = query[:url_idx]\n    # This should be some internal IP to wherever the server runs\n    job = {\"image_path\": img_url, \"instruction\": instruction}",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TOKENS",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "MAX_TOKENS = 512\n# This is private endpoint, will have to change to turbo later\nllm = AzureOpenAI(deployment_name=\"gpt-35-turbo-version-0301\", model_name=\"gpt-35-turbo (version 0301)\", temperature=0, max_tokens=MAX_TOKENS)\nmemory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "llm = AzureOpenAI(deployment_name=\"gpt-35-turbo-version-0301\", model_name=\"gpt-35-turbo (version 0301)\", temperature=0, max_tokens=MAX_TOKENS)\nmemory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "memory = ConversationBufferMemory(memory_key=\"chat_history\")\nimun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_dense",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_dense = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_URL2\"],\n    params=os.environ[\"IMUN_PARAMS2\"],\n    imun_subscription_key=os.environ[\"IMUN_SUBSCRIPTION_KEY2\"])\nimun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun = ImunAPIWrapper()\nimun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun = ImunMultiAPIWrapper(imuns=[imun, imun_dense])\nimun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_celeb",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_celeb = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_CELEB_URL\"],\n    params=\"\")\nimun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_read",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_read = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_READ_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_receipt",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_receipt = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_RECEIPT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_businesscard",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_businesscard = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_BC_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_layout",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_layout = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_LAYOUT_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nimun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nbing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "imun_invoice",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "imun_invoice = ImunAPIWrapper(\n    imun_url=os.environ[\"IMUN_OCR_INVOICE_URL\"],\n    params=os.environ[\"IMUN_OCR_PARAMS\"],\n    imun_subscription_key=os.environ[\"IMUN_OCR_SUBSCRIPTION_KEY\"])\nbing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "bing",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "bing = BingSearchAPIWrapper(k=2)\ndef edit_photo(query: str) -> str:\n    endpoint = os.environ[\"PHOTO_EDIT_ENDPOINT_URL\"]\n    query = query.strip()\n    url_idx, img_url = get_url_path(query)\n    if not img_url.startswith((\"http://\", \"https://\")):\n        return \"Invalid image URL\"\n    img_url = img_url.replace(\"0.0.0.0\", os.environ[\"PHOTO_EDIT_ENDPOINT_URL_SHORT\"])\n    instruction = query[:url_idx]\n    # This should be some internal IP to wherever the server runs",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "tools",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "tools = [\n    Tool(\n        name=\"PAL-MATH\",\n        func=PALChain.from_math_prompt(llm).run,\n        description=(\n        \"A wrapper around calculator. \"\n        \"A language model that is really good at solving complex word math problems.\"\n        \"Input should be a fully worded hard word math problem.\"\n        )\n    ),",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "chain = initialize_agent(tools, llm, agent=\"conversational-mm-assistant\", verbose=True, memory=memory, return_intermediate_steps=True, max_iterations=4)\noutput = chain.conversation(\"https://www.oracle-dba-online.com/sql/weekly_sales_table.png\")",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "sample-mm-react",
+        "description": "sample-mm-react",
+        "peekOfCode": "output = chain.conversation(\"https://www.oracle-dba-online.com/sql/weekly_sales_table.png\")",
+        "detail": "sample-mm-react",
+        "documentation": {}
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "serverflask",
+        "description": "serverflask",
+        "peekOfCode": "def upload_file():\n    if 'file' not in request.files:\n        return jsonify({'error': 'No file provided'})\n    file = request.files['file']\n    if file.filename == '':\n        return jsonify({'error': 'No file selected'})\n    # Process the uploaded file\n    # Here, you can perform actions like saving the file, processing its contents, etc.\n    # In this example, we'll just return the filename and size as a JSON response\n    caption = captionImage(file)",
+        "detail": "serverflask",
+        "documentation": {}
+    },
+    {
+        "label": "helloworld",
+        "kind": 2,
+        "importPath": "serverflask",
+        "description": "serverflask",
+        "peekOfCode": "def helloworld():\n    return 'Hello world'\nif __name__ == '__main__':\n    app.run()",
+        "detail": "serverflask",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "serverflask",
+        "description": "serverflask",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/upload', methods=['POST'])\ndef upload_file():\n    if 'file' not in request.files:\n        return jsonify({'error': 'No file provided'})\n    file = request.files['file']\n    if file.filename == '':\n        return jsonify({'error': 'No file selected'})\n    # Process the uploaded file\n    # Here, you can perform actions like saving the file, processing its contents, etc.",
+        "detail": "serverflask",
+        "documentation": {}
+    },
+    {
+        "label": "get_from_dict_or_env",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_from_dict_or_env(\n    data: Dict[str, Any], key: str, env_key: str, default: Optional[str] = None\n) -> str:\n    \"\"\"Get a value from a dictionary or an environment variable.\"\"\"\n    if key in data and data[key]:\n        return data[key]\n    elif env_key in os.environ and os.environ[env_key]:\n        return os.environ[env_key]\n    elif default is not None:\n        return default",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def download_image(url:str):\n    \"\"\"Download raw image from url\n    \"\"\"\n    try:\n        headers = {'User-Agent': 'langchain imun'}\n        r = requests.get(url, stream=True, headers=headers, timeout=2)\n        assert r.status_code == 200, \"Invalid URL\"\n        return r.content\n    except requests.exceptions.MissingSchema:\n        # This should be configured because of security",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "im_downscale",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def im_downscale(data, target_size):\n    output = io.BytesIO()\n    im = Image.open(io.BytesIO(data))\n    w, h = im.size\n    if target_size is None:\n        if im.mode in (\"RGBA\", \"P\"):\n            im = im.convert(\"RGB\")\n        im.save(output, format=\"JPEG\")\n        return output.getvalue(), (w, h)\n    im_size_max = max(w, h)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "im_upscale",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def im_upscale(data, target_size):\n    im = Image.open(io.BytesIO(data))\n    w, h = im.size\n    im_size_min = min(w, h)\n    im_scale = float(target_size) / float(im_size_min)\n    w, h = int(w * im_scale), int(h * im_scale)\n    im = im.resize((w, h))\n    output = io.BytesIO()\n    if im.mode in (\"RGBA\", \"P\"):\n        im = im.convert(\"RGB\")",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_url_path",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_url_path(query:str, return_end=False)->Tuple[int,str]:\n    match = re.search(r\"https?://.+\\.(?:jpg|jpeg|png|bmp|pdf)\", query, re.IGNORECASE)\n    if match:\n        if return_end:\n            return match.start(), match.end(), match.group(0)\n        return match.start(), match.group(0)\n    match = re.search(r\"https?://\\S+\", query, re.IGNORECASE)\n    if match:\n        url = match.group(0)\n        if url.endswith((\".\", \"?\", '\"')):",
+        "detail": "utils",
+        "documentation": {}
+    }
+]
